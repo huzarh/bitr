@@ -8,10 +8,7 @@ const sectionsContentData = [
     title: "About us",
     content: (
       <p>
-        Welcome to our 3D portfolio, created during Voyage #43 on the Chingu
-        platform! This experience helped us boost our confidence and develop our
-        soft and technical skills, gearing us up for future challenges. Check it
-        out and witness the amazing outcome of our teamwork! 📱✨🎉
+        ** 📱✨🎉
       </p>
     ),
   },

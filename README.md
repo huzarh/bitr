@@ -24,7 +24,7 @@
 - [x] see team member's portfolios
 - [x] enjoy cool animation 
 
-## 🤝 Our team
+## 🤝 Our team  cghdm
 
 ### Developers:
 

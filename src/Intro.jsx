@@ -29,7 +29,7 @@ export default function Intro({ children }) {
       >
         <div className="loader-container" onClick={() => setClicked(true)}>
           {!ready ? (
-            <img className="fox-loader" src="./image/loading.gif" />
+            <img className="fox-loader" src="https://cdn.pixabay.com/animation/2022/07/29/03/42/03-42-11-849_512.gif" />
           ) : (
             <button
               aria-label="continue"
@@ -37,7 +37,7 @@ export default function Intro({ children }) {
               onMouseEnter={() => updateCursorType("hover")}
               onMouseLeave={() => updateCursorType("pointer")}
             >
-              <BsPlayCircleFill />
+              <BsPlayCircleFill color="#5e13ff"/>
             </button>
           )}
         </div>
