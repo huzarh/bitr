@@ -36,8 +36,9 @@ const teamData = [
     ],
   },
   {
-    name: "...",
-    image: "/images/szymon-min.jpg",
+    name: "Doç.Dr. Serhat KÜÇÜK",
+    image:
+      "https://sademyonetim.subu.edu.tr/storage/photos/4027/Personel%20Foto%C4%9Fraflar%C4%B1/Artboard%2051.jpg",
     links: [
       {
         title: "linkedin",
@@ -45,7 +46,7 @@ const teamData = [
       },
       { title: "github", link: "#" },
       { title: "twitter", link: "#" },
-      { title: "portfolio", link: "#" },
+      { title: "portfolio", link: "https://serhatkucuk.subu.edu.tr" },
     ],
   },
   {
