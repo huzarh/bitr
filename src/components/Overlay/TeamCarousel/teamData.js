@@ -1,62 +1,64 @@
 // Team data
 const teamData = [
   {
-    name: "Danney",
-    image: "/images/danney-min.jpg",
+    name: "Dr. Öğr. Üyesi Selman HIZAL",
+    image:
+      "https://fotograf.sabis.subu.edu.tr/Fotograf/ecadfe0d7c7708eb1ca63fe1d14ba7ba",
     links: [
-      { title: "linkedin", link: "https://www.linkedin.com/in/danneytrieu" },
-      { title: "github", link: "https://github.com/Danneytrieu" },
-      { title: "twitter", link: "https://github.com/Danneytrieu" },
-      { title: "portfolio", link: "https://danneytrieu.design/" },
+      { title: "linkedin", link: "#" },
+      { title: "github", link: "#" },
+      { title: "twitter", link: "#" },
+      { title: "portfolio", link: "https://selmanhizal.subu.edu.tr/" },
     ],
   },
   {
-    name: "Sean",
-    image: "/images/sean-min.jpg",
+    name: "Khuzair Asker",
+    image:
+      "https://media.licdn.com/dms/image/D4D03AQGUaeNOE1ZAwA/profile-displayphoto-shrink_800_800/0/1700928817886?e=1709164800&v=beta&t=a7hURBAVAbq2Kmp2O6oyWcoFOX-eaaI3nYEgIKTINBc",
     links: [
-      { title: "linkedin", link: "https://github.com/seantai" },
-      { title: "github", link: "https://github.com/seantai" },
-      { title: "twitter", link: "https://twitter.com/_seantai" },
-      { title: "portfolio", link: "https://seantai.dev/" },
+      { title: "linkedin", link: "#" },
+      { title: "github", link: "https://github.com/huzarh" },
+      { title: "twitter", link: "#" },
+      { title: "portfolio", link: "#" },
     ],
   },
   {
-    name: "Jane",
+    name: "...",
     image: "/images/jane-min.jpg",
     links: [
       {
         title: "linkedin",
-        link: "https://www.linkedin.com/in/eugenia-ishunina",
+        link: "#",
       },
-      { title: "github", link: "https://github.com/JaneMoroz" },
-      { title: "twitter", link: "https://twitter.com/jane_moroz" },
-      { title: "portfolio", link: "https://jane-moroz-dev.netlify.app/" },
+      { title: "github", link: "#" },
+      { title: "twitter", link: "#" },
+      { title: "portfolio", link: "#" },
     ],
   },
   {
-    name: "Szymon",
+    name: "...",
     image: "/images/szymon-min.jpg",
     links: [
       {
         title: "linkedin",
-        link: "https://github.com/Speckope",
+        link: "#",
       },
-      { title: "github", link: "https://github.com/Speckope" },
-      { title: "twitter", link: "https://github.com/Speckope" },
-      { title: "portfolio", link: "https://github.com/Speckope" },
+      { title: "github", link: "#" },
+      { title: "twitter", link: "#" },
+      { title: "portfolio", link: "#" },
     ],
   },
   {
-    name: "Zoran",
+    name: "...",
     image: "/images/zoran-min.jpg",
     links: [
       {
         title: "linkedin",
-        link: "https://github.com/zvitez",
+        link: "#",
       },
-      { title: "github", link: "https://github.com/zvitez" },
-      { title: "twitter", link: "https://github.com/zvitez" },
-      { title: "portfolio", link: "https://github.com/zvitez" },
+      { title: "github", link: "#" },
+      { title: "twitter", link: "#" },
+      { title: "portfolio", link: "#" },
     ],
   },
 ];

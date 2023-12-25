@@ -107,16 +107,16 @@ const SectionDetails = () => {
                     className="section-btn"
                     onClick={clickHandler}
                   >
-                    Next <HiOutlineArrowRight />
+                    ilere <HiOutlineArrowRight />
                   </button>
                   <a
                     onMouseEnter={() => updateCursorType("hover")}
                     onMouseLeave={() => updateCursorType("pointer")}
                     target="_blank"
                     className="section-btn"
-                    href="https://github.com/chingu-voyages/v43-tier3-team-29"
+                    href="http://10.9.2.200:3000/"
                   >
-                    github repo <HiOutlineArrowRight />
+                    see more the proje <HiOutlineArrowRight />
                   </a>
                 </motion.div>
               </motion.div>

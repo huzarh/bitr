@@ -21,16 +21,16 @@ function Board(props) {
           rotation-y={Math.PI}
         >
           <div className="board">
-            <p className="board-title">Our Stacks:</p>
+            <p className="board-title">Koldandımız tek:</p>
             <ul className="board-list">
-              <li>React</li>
-              <li>React-fiber</li>
-              <li>Fiber-drei</li>
-              <li>Threatre</li>
-              <li>Framer-motion</li>
-              <li>Zustand</li>
-              <li>Leva</li>
-              <li>Vite</li>
+              <li>react</li>
+              <li>threejs</li>
+              <li>mui</li>
+              <li>nodejs</li>
+              <li>express</li>
+              <li>mongodb</li>
+              <li>redux</li>
+              <li>...</li>
             </ul>
           </div>
         </Html>

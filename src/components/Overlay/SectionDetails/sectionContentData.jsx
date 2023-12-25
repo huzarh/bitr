@@ -5,38 +5,27 @@ import TeamCarousel from "../TeamCarousel";
 const sectionsContentData = [
   {
     key: "about",
-    title: "About us",
+    title: "Hakkımızda",
     content: (
       <p>
-        ** 📱✨🎉
+       ...📱✨🎉
       </p>
     ),
   },
-  { key: "team", title: "Our team", content: <TeamCarousel /> },
+  { key: "team", title: "Proje ekibi", content: <TeamCarousel /> },
   {
     key: "credits",
-    title: "Credits",
+    title: "İletişim",
     content: (
       <ul className="credits">
         <li>
-          <a href="https://www.chingu.io/">Chingu</a>
+          <a href="#">&#9743; 0216 664 1225</a>
         </li>
         <li>
-          <a href="https://threejs-journey.com/">Bruno Simon</a>
-        </li>
+          <a href="#">&#9758; uzem@subu.edu.tr</a>
+        </li><br/>
         <li>
-          <a href="https://poly.pizza">Poly Pizza</a>
-        </li>
-        <li>
-          <a href="https://www.syntystudios.com">Synty Studios</a>
-        </li>
-        <li>
-          <a href="https://streakbyte.com">Streak Byte</a>
-        </li>
-        <li>
-          <a href="https://github.com/chingu-voyages/v43-tier3-team-29">
-            More Credits
-          </a>
+          <a href="#">&#9750; Kemalpaşa Mah.SAÜ Kampüsü,SUBÜ UZEM</a>
         </li>
       </ul>
     ),

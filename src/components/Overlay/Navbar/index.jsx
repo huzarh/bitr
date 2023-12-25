@@ -18,7 +18,7 @@ import {
 const navList = [
   { title: "Bi-Turkce", icon: <HiOutlineBookOpen />, position: 0.7 },
   { title: "Kimler", icon: <HiOutlineUsers />, position: 2.1 },
-  { title: "stack", icon: <HiOutlineChip />, position: 6.7 },
+  { title: "Proje-ekibi", icon: <HiOutlineChip />, position: 6.7 },
   { title: "proje", icon: <HiOutlineDesktopComputer />, position: 7.8 },
   { title: "daha", icon: <HiOutlineCollection />, position: 9 },
 ];
