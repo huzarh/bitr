@@ -23,8 +23,9 @@ const teamData = [
     ],
   },
   {
-    name: "...",
-    image: "/images/jane-min.jpg",
+    name: "Öğr. Gör. Dr.  Münevver GÜNDÜZ ",
+    image:
+      "https://fotograf.sabis.subu.edu.tr/Fotograf/b0de88dbeb7e1051eae155ef4eaccd11",
     links: [
       {
         title: "linkedin",
@@ -32,7 +33,7 @@ const teamData = [
       },
       { title: "github", link: "#" },
       { title: "twitter", link: "#" },
-      { title: "portfolio", link: "#" },
+      { title: "portfolio", link: "https://munevvergunduz.subu.edu.tr/" },
     ],
   },
   {

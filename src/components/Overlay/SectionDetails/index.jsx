@@ -116,7 +116,7 @@ const SectionDetails = () => {
                     className="section-btn"
                     href="http://10.9.2.200:3000/"
                   >
-                    see more the proje <HiOutlineArrowRight />
+                    BiTurkce projesi <HiOutlineArrowRight />
                   </a>
                 </motion.div>
               </motion.div>
